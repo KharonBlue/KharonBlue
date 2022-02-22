@@ -1,9 +1,21 @@
+
 <h1 align="center",font size=1>
-  Hello Stranger :D
-  </h1>
+  Facundo Castro 
+</h1>
 
 
+<h2 align="center">About me</h2>
 
+```golang
+
+		"- ⚡ Quick bio:":                    "I am 24 years old, I live in Argentina and I am currently training to work as a developer. I like rock, rap, pizza and cats.",
+		"- 🔭 I’m currently working on":      "Waiting for a job",
+		"- 🌱 I’m currently learning":        "Java, Phyton, PHP",
+		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
+		"- 💬 Ask me about":                  "Back end developer, with management in java, mysql",
+		"- 📫 How to reach me:":              "https://github.com/KharonBlue",
+
+```
 
 <div align="center">
   <h3>Skills</h2>
@@ -67,6 +79,8 @@
  <a href="https://github.com/KharonBlue"><img src="https://img.shields.io/github/followers/priyanshumay.svg?label=GitHub&style=social" alt="GitHub"></a>
 <a href="https://www.linkedin.com/in/facundo-castro-67802521a/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
 </p>
+
+
 <!--
 **KharonBlue/KharonBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
