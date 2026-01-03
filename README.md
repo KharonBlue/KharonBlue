@@ -8,11 +8,11 @@
 
 ```golang
 
-		"- ⚡ Quick bio:":                    "I am 24 years old, I live in Argentina and I am currently training to work as a developer. I like rock, rap, pizza and cats.",
-		"- 🔭 I’m currently working on":      "Waiting for a job",
-		"- 🌱 I’m currently learning":        "Java, Phyton, PHP",
-		"- 🤔 I’m looking for help with":     "Anything related to what I am currently learning 😅",
-		"- 💬 Ask me about":                  "Back end developer, with management in java, mysql",
+		"- ⚡ Quick bio:":                    "I'm 28 years old, I live in Argentina, and I'm currently finishing my training to work as a developer. I like music, working out, and animals.",
+		"- 🔭 I’m currently working on":      "My home, myself and the garden",
+		"- 🌱 I’m currently learning":        "Java, spring-security, jwt, micro-service, testing  MySQL..",
+		"- 🤔 I’m looking for help with":     "I think it's always good to learn something new",
+		"- 💬 Ask me about":                  "Back end developer, with management in java, Spring boot, Spring security, testing (related to Java), MySQL",
 		"- 📫 How to reach me:":              "https://github.com/KharonBlue",
 
 ```
